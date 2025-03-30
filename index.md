@@ -5,7 +5,9 @@ Lightning Signals began quietly. No press releases. No hype. Just a relentless i
 Eric Vitrier, the solo founder, **is** the entire engineering team. He writes every line of code and deploys every server. No shortcuts, no outsourcing.
 
 **- Back-End:** Node.js logic, MySQL databases, custom APIs, secure authentication – built from scratch.
+
 **- Front-End:** HTML, CSS, JavaScript, React interface – crafted pixel by pixel.
+
 **- Ops:** Git version control, DevOps pipelines, SSL encryption, deployments on Railway – all orchestrated solo.
 
 Day after day, night after night, he works. Not because it's easy, but because it matters. There's no one else to blame, and no one else needed. When something breaks, he already knows how to fix it – he built it. When new features call, he answers with code. Every challenge is met head-on. Every victory earned with commit after commit.
